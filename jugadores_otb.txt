@@ -1,0 +1,5 @@
+name, email
+ignacio, ig@gmail.com
+nacho, na@gmail.com
+didu, di@gmail.com
+worbu, wo@gmail.com
